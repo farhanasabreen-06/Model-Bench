@@ -105,7 +105,3 @@ The objective of ModelBench is to provide a practical environment for understand
 * Advanced visual analytics dashboard
 
 ---
-
-
-⭐ If you found this project useful, consider giving it a star.
-
