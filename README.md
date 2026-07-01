@@ -14,9 +14,9 @@ The project enables users to train, evaluate, and analyze multiple models on the
 - Interactive web interface using Streamlit
 - Automated model training and evaluation
 - Performance comparison using:
-      * Accuracy
-      * F1 Score
-      * Training Time
+  1.  Accuracy
+  2.  F1 Score
+  3.  Training Time
 
 - Visual representation of results
 - Clean and easy-to-use workflow
