@@ -10,21 +10,20 @@ The project enables users to train, evaluate, and analyze multiple models on the
 
 ##  Features
 
-✅ Compare Classical ML and Deep Learning approaches
-✅ Interactive web interface using Streamlit
-✅ Automated model training and evaluation
-✅ Performance comparison using:
+- Compare Classical ML and Deep Learning approaches
+- Interactive web interface using Streamlit
+- Automated model training and evaluation
+- Performance comparison using:
+      * Accuracy
+      * F1 Score
+      * Training Time
 
-* Accuracy
-* F1 Score
-* Training Time
-
-✅ Visual representation of results
-✅ Clean and easy-to-use workflow
+- Visual representation of results
+- Clean and easy-to-use workflow
 
 ---
 
-## 🛠️ Tech Stack
+## 77 Tech Stack
 
 * **Python**
 * **Streamlit**
